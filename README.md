@@ -3,7 +3,7 @@
 <h3 align="center">Tech Wizard & Coding Enthusiast | Mastering JavaScript, Go, Java & Beyond | Unleashing the Power of Diverse Technologies | Let's Craft Solutions & Embrace Limitless Innovation |</h3>
 
 <p align="left"> <a href="https://twitter.com/prakharsatyam" target="blank"><img src="https://img.shields.io/twitter/follow/prakharsatyam?logo=twitter&style=for-the-badge" alt="prakharsatyam" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/prakharsatyam/prakharsatyam/blob/main/gif4.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/prakharsatyam/prakharsatyam/blob/main/code.gif">
 - 🔭 I’m currently working on [ExpressAuth](https://github.com/prakharsatyam/ExpressAuth)
 
 - 🌱 I’m currently learning **MERN Stack, AWS, GO**
