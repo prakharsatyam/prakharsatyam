@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo16481
-Fork on GitHub4626
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
 <h3 align="center">Tech Wizard & Coding Enthusiast | Mastering JavaScript, Go, Java & Beyond | Unleashing the Power of Diverse Technologies | Let's Craft Solutions & Embrace Limitless Innovation |</h3>
 
