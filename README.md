@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
+<div align="center"> <img src="https://github.com/prakharsatyam/prakharsatyam/blob/main/prakharsatym-banner.png"> </div>
 <h3 align="center">Tech Wizard & Coding Enthusiast | Mastering JavaScript, Go, Java & Beyond | Unleashing the Power of Diverse Technologies | Let's Craft Solutions & Embrace Limitless Innovation |</h3>
 
 <p align="left"> <a href="https://twitter.com/prakharsatyam" target="blank"><img src="https://img.shields.io/twitter/follow/prakharsatyam?logo=twitter&style=for-the-badge" alt="prakharsatyam" /></a> </p>
